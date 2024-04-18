@@ -1,0 +1,16 @@
+export const HOME_HEADER_TEXT = 'The Rick and Morty RN app';
+export const TYPE_TEXT = 'Type';
+export const NAME_TEXT = 'Name';
+export const GENDER_TEXT = 'Gender';
+export const CREATED_AT_TEXT = 'Created at';
+export const ORIGINALY_FROM_TEXT = 'Originaly from';
+export const CURRENT_LOCATION_TEXT = 'Current location';
+export const PERSON_NO_DATA_TEXT = 'No data available for this person.';
+export const NO_INFO_TEXT = 'No info';
+export const EPISODES_TEXT = 'Episodes';
+export const CHARACTERS_TEXT = 'Characters';
+export const PERSON_TEXT = 'Person';
+export const LOCATION_TEXT = 'Location';
+export const EPISODE_TEXT = 'Episode';
+export const ALIVE_TEXT = 'Alive';
+export const DEAD_TEXT = 'Dead';
